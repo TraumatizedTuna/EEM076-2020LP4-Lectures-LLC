@@ -291,7 +291,14 @@
       selected: true,
     },
     {
-      start: 4273.845008,
+      start: 4308.411718,
+      end: 4385.616426,
+      name: '[EXC] Series',
+      selected: true,
+    },
+    {
+      start: 4426.284657,
+      end: 4473.637418,
       name: '',
       selected: true,
     },
