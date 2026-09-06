@@ -298,7 +298,24 @@
     },
     {
       start: 4426.284657,
-      end: 4473.637418,
+      end: 4659.723748,
+      name: '(In)dependent Voltage Source',
+      selected: true,
+    },
+    {
+      start: 4709.723838,
+      end: 4750.828673,
+      name: '[EXC]',
+      selected: true,
+    },
+    {
+      start: 4752.540396,
+      end: 4803.41895,
+      name: '',
+      selected: true,
+    },
+    {
+      start: 4822.695965,
       name: '',
       selected: true,
     },
