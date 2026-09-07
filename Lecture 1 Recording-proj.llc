@@ -322,7 +322,18 @@
     },
     {
       start: 5241.997802,
-      end: 5246.399634,
+      end: 5519.349222,
+      name: '[EXC]',
+      selected: true,
+    },
+    {
+      start: 5605.401884,
+      end: 5630.068423,
+      name: '',
+      selected: true,
+    },
+    {
+      start: 6288.52,
       name: '',
       selected: true,
     },
