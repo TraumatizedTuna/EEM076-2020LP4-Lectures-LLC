@@ -1,0 +1,18 @@
+{
+  version: 2,
+  mediaFileName: 'Lecture 2 Recording.mp4',
+  cutSegments: [
+    {
+      start: 0,
+      end: 242.117205,
+      name: '[INTR]',
+      selected: true,
+    },
+    {
+      start: 313.947887,
+      end: 373.602407,
+      name: '[EXC]',
+      selected: true,
+    },
+  ],
+}
