@@ -1,0 +1,24 @@
+{
+  version: 2,
+  mediaFileName: 'Lecture 3 Recording.mp4',
+  cutSegments: [
+    {
+      start: 4.699533,
+      end: 901.980202,
+      name: '[SUM]',
+      selected: true,
+    },
+    {
+      start: 907.18036,
+      end: 1070.04,
+      name: '',
+      selected: true,
+    },
+    {
+      start: 1110.821931,
+      end: 1695.66971,
+      name: '',
+      selected: true,
+    },
+  ],
+}
