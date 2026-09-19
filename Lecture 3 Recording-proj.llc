@@ -28,7 +28,25 @@
     },
     {
       start: 1998.482678,
-      end: 2071.04202,
+      end: 2549.526421,
+      name: '',
+      selected: true,
+    },
+    {
+      start: 2560.264473,
+      end: 2634.490673,
+      name: '',
+      selected: true,
+    },
+    {
+      start: 2640.412552,
+      end: 2826.943608,
+      name: '',
+      selected: true,
+    },
+    {
+      start: 2833.067552,
+      end: 2848.282096,
       name: '',
       selected: true,
     },
