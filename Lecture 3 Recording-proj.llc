@@ -46,7 +46,13 @@
     },
     {
       start: 2833.067552,
-      end: 2848.282096,
+      end: 2990.011279,
+      name: '-',
+      selected: true,
+    },
+    {
+      start: 3124.509214,
+      end: 3143.790556,
       name: '',
       selected: true,
     },
