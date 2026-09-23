@@ -1,0 +1,72 @@
+{
+  version: 2,
+  mediaFileName: 'Lecture 4 Recording.mp4',
+  cutSegments: [
+    {
+      start: 15.465752,
+      end: 22.114019,
+      name: '',
+      selected: true,
+    },
+    {
+      start: 125.505616,
+      end: 363.989175,
+      name: '[SUM] Lectures 1-3',
+      selected: true,
+    },
+    {
+      start: 369.213056,
+      end: 625.904641,
+      name: '',
+      selected: true,
+    },
+    {
+      start: 629.507338,
+      end: 712.569637,
+      name: '',
+      selected: true,
+    },
+    {
+      start: 823.817284,
+      end: 998.611968,
+      name: '',
+      selected: true,
+    },
+    {
+      start: 1046.433821,
+      end: 1111.360445,
+      name: '[Q] Load resistor',
+      selected: true,
+    },
+    {
+      start: 1141.914318,
+      end: 1224.814313,
+      name: '[Q]',
+      selected: true,
+    },
+    {
+      start: 1238.458776,
+      end: 1296.472559,
+      name: '[INT]',
+      selected: true,
+    },
+    {
+      start: 1299.223205,
+      end: 1363.770371,
+      name: 'Capacitors',
+      selected: true,
+    },
+    {
+      start: 1384.690755,
+      end: 1430.2046,
+      name: '[EXT]',
+      selected: true,
+    },
+    {
+      start: 1433.332121,
+      end: 1656.624201,
+      name: 'Capacitor',
+      selected: true,
+    },
+  ],
+}
