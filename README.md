@@ -6,7 +6,7 @@ This README could probably use some more love. I'll look into that if the repo e
 
 ## Instructions
 1. Clone/download the repo.
-2. Add lecture recordings to the repo.
+2. Add [lecture recordings](https://canvas.chalmers.se/courses/9375/modules) to the repo.
 3. Open a recording in [LosslessCut](https://github.com/mifi/lossless-cut/releases). It should automatically grab the LLC with the same filename.
 
 ## Label Conventions
