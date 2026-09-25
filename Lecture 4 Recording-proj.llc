@@ -143,7 +143,36 @@
     {
       start: 3918.706331,
       end: 3957.288882,
+      name: '[EXC] Inductor Voltage Power Energy',
+      selected: true,
+    },
+    {
+      start: 4047.043343,
+      end: 4142.811628,
+      name: '[EXC] Inductor Voltage Power Energy',
+      selected: true,
+    },
+    {
+      start: 4147.76,
+      end: 4233.181924,
+      name: 'Key Inductor behaviors',
+      selected: true,
+    },
+    {
+      start: 4240.297819,
+      end: 4380.344779,
       name: '[EXC]',
+      selected: true,
+    },
+    {
+      start: 4406.502508,
+      end: 4460.433484,
+      name: '',
+      selected: true,
+    },
+    {
+      start: 4461.808679,
+      name: '[EXT]',
       selected: true,
     },
   ],
