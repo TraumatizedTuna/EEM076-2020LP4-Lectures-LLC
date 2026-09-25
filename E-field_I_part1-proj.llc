@@ -1,0 +1,30 @@
+{
+  version: 2,
+  mediaFileName: 'E-field_I_part1.mp4',
+  cutSegments: [
+    {
+      start: 37.158099,
+      end: 526.152545,
+      name: '[INT] Electromagnetic waves and stuff',
+      selected: true,
+    },
+    {
+      start: 691.45156,
+      end: 748.077605,
+      name: '[INT]',
+      selected: true,
+    },
+    {
+      start: 768.02236,
+      end: 1433.284544,
+      name: 'Fields | Charge',
+      selected: true,
+    },
+    {
+      start: 1451.769916,
+      end: 1665.493753,
+      name: "Electric field strength | Coulomb's Law",
+      selected: true,
+    },
+  ],
+}

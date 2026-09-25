@@ -2,7 +2,7 @@
 
 ## Background
 When studying for the resit exam, I discovered that the 2020 lecture recordings are still available on Canvas. Since I'll be watching them anyway, I decided to watch them in LosslessCut so I can cut out the unnecessary parts and label the segments for future reference. I thought I might as well share my LLC files on the off chance that someone else out there has access to the videos and needs them.
-This README could probably use some more love. I'll look into that if the repo ever gets a star, rather than typing more into the void.
+This README could probably use some more love. I'll look into that if the repo ever gets a star, rather than keep typing into the void.
 
 ## Instructions
 1. Clone/[download](https://github.com/TraumatizedTuna/EEM076-2020LP4-Lectures-LLC/archive/refs/heads/main.zip) the repo.
