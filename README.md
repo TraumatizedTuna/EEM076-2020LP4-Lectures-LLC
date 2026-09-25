@@ -5,7 +5,7 @@ When studying for the resit exam, I discovered that the 2020 lecture recordings 
 This README could probably use some more love. I'll look into that if the repo ever gets a star, rather than typing more into the void.
 
 ## Instructions
-1. Clone/download the repo.
+1. Clone/[download](https://github.com/TraumatizedTuna/EEM076-2020LP4-Lectures-LLC/archive/refs/heads/main.zip) the repo.
 2. Add [lecture recordings](https://canvas.chalmers.se/courses/9375/modules) to the repo.
 3. Open a recording in [LosslessCut](https://github.com/mifi/lossless-cut/releases). It should automatically grab the LLC with the same filename.
 >[!TIP]
