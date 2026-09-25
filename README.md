@@ -8,6 +8,7 @@ This README could probably use some more love. I'll look into that if the repo e
 1. Clone/download the repo.
 2. Add [lecture recordings](https://canvas.chalmers.se/courses/9375/modules) to the repo.
 3. Open a recording in [LosslessCut](https://github.com/mifi/lossless-cut/releases). It should automatically grab the LLC with the same filename.
+4. (Optional) Not into frying your eyes? Hit `ctrl+shift+i` followed by `esc` to open the console and enter `document.getElementsByTagName("video")[0].style.filter="invert() hue-rotate(180deg)"`.
 
 ## Label Conventions
 

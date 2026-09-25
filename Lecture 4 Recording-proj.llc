@@ -172,7 +172,26 @@
     },
     {
       start: 4461.808679,
+      end: 4635.22083,
       name: '[EXT]',
+      selected: true,
+    },
+    {
+      start: 4638.057619,
+      end: 4668.013243,
+      name: '',
+      selected: true,
+    },
+    {
+      start: 4677.66703,
+      end: 4909.716762,
+      name: 'Series and parallel',
+      selected: true,
+    },
+    {
+      start: 4914.386166,
+      end: 4983.476065,
+      name: 'RC Circuits',
       selected: true,
     },
   ],
