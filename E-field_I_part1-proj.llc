@@ -22,8 +22,14 @@
     },
     {
       start: 1451.769916,
-      end: 1665.493753,
+      end: 1960.662717,
       name: "Electric field strength | Coulomb's Law",
+      selected: true,
+    },
+    {
+      start: 2043.082854,
+      end: 2189.311034,
+      name: '',
       selected: true,
     },
   ],

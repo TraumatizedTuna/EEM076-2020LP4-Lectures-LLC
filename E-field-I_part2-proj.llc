@@ -1,0 +1,42 @@
+{
+  version: 2,
+  mediaFileName: 'E-field-I_part2.mp4',
+  cutSegments: [
+    {
+      start: 1.803207,
+      end: 225.374362,
+      name: 'Electric field lines',
+      selected: true,
+    },
+    {
+      start: 235.28,
+      end: 311.786768,
+      name: '',
+      selected: true,
+    },
+    {
+      start: 330.548472,
+      end: 407.637673,
+      name: '[EXC]',
+      selected: true,
+    },
+    {
+      start: 421.84,
+      end: 468.84,
+      name: '[EXC]',
+      selected: true,
+    },
+    {
+      start: 542.96,
+      end: 836.548984,
+      name: '[EXC]',
+      selected: true,
+    },
+    {
+      start: 843.749057,
+      end: 862.664529,
+      name: '',
+      selected: true,
+    },
+  ],
+}
