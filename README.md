@@ -13,7 +13,7 @@ When studying for the resit exam, I discovered that the 2020 lecture recordings 
 >[!TIP]
 >Not into frying your eyes? Hit `ctrl+shift+i` followed by `esc` to open the console and enter `document.getElementsByTagName("video")[0].style.filter="invert() hue-rotate(180deg)"`.
 
-### Select Segments by [Label](#label-conventions) Content
+### Select Segments by [Label Content](#label-conventions)
 1. Right click a segment in the sidebar and click `Deselect all segments`.
 2. Right click again and `Select segments by expression`.
 3. Enter a JS expression to select what you want, for instance:
