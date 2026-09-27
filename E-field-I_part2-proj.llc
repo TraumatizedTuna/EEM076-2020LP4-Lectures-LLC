@@ -17,19 +17,19 @@
     {
       start: 330.548472,
       end: 407.637673,
-      name: '[EXC]',
+      name: '[EXC] Field lines',
       selected: true,
     },
     {
       start: 421.84,
       end: 468.84,
-      name: '[EXC]',
+      name: '[EXC] Fields',
       selected: true,
     },
     {
       start: 542.96,
       end: 836.548984,
-      name: '[EXC]',
+      name: '[EXC] Fields',
       selected: true,
     },
     {
