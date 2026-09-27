@@ -36,6 +36,8 @@ I haven't gotten `Smart cut` to work, despite trying a bunch of different settin
 * `[SUM]` - Summary
 * `[EXC]` - Excercise
 * `[DER]` - Derivation/explanation (of a formula or law or whatever)
+>[!CAUTION]
+>`[DER]` has not been added to old videos (yet).
 * `[Q]` - Student question
 * `[EXT]` - External video
 * `+` `-` `?` - Somewhat loosely used to denote that a segment needs to be extended/shortened or should be looked into in general. If combined with other labels, the order indicates which end of the segment needs attention. Dirty? Sure but it's not meant to be permanent anyway.
