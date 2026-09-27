@@ -3,25 +3,19 @@
   mediaFileName: 'Lecture 1 Recording.mp4',
   cutSegments: [
     {
-      start: 15.053849,
-      end: 55.999293,
+      start: 20.16,
+      end: 49.999293,
       name: 'book',
+      selected: false,
+    },
+    {
+      start: 441.46693,
+      end: 513.68,
+      name: '[INT]',
       selected: true,
     },
     {
-      start: 253.199699,
-      end: 302.151135,
-      name: '',
-      selected: true,
-    },
-    {
-      start: 413.089085,
-      end: 516.003441,
-      name: '',
-      selected: true,
-    },
-    {
-      start: 516.003441,
+      start: 518.32,
       end: 775.24,
       name: 'Current',
       selected: true,
