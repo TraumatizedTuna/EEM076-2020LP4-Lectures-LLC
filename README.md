@@ -16,6 +16,7 @@ This README could probably use some more love. I'll look into that if the repo e
 * `[INT]` - Introduction
 * `[SUM]` - Summary
 * `[EXC]` - Excercise
+* `[DER]` - Derivation/explanation (of a formula or law or whatever)
 * `[Q]` - Student question
 * `[EXT]` - External video
 * `+` `-` `?` - Somewhat loosely used to denote that a segment needs to be extended/shortened or should be looked into in general. If combined with other labels, the order indicates which end of the segment needs attention. Dirty? Sure but it's not meant to be permanent anyway.
