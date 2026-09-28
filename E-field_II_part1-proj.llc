@@ -1,0 +1,102 @@
+{
+  version: 2,
+  mediaFileName: 'E-field_II_part1.mp4',
+  cutSegments: [
+    {
+      start: 6.07634,
+      end: 127.035735,
+      name: '[SUM]',
+      selected: true,
+    },
+    {
+      start: 131.162168,
+      end: 239.84545,
+      name: 'Field lines describe acceleration',
+      selected: true,
+    },
+    {
+      start: 249.327881,
+      end: 338.97617,
+      name: '[SUM] Dipole',
+      selected: true,
+    },
+    {
+      start: 344.81304,
+      end: 414.825295,
+      name: "[SUM] Coulomb's Law",
+      selected: true,
+    },
+    {
+      start: 420.435971,
+      end: 629.92,
+      name: "[SUM] Gauss's Law",
+      selected: true,
+    },
+    {
+      start: 634.4,
+      end: 676.637607,
+      name: '[EXC] Flow',
+      selected: true,
+    },
+    {
+      start: 720.16,
+      end: 741.459397,
+      name: '[EXC] Flow',
+      selected: true,
+    },
+    {
+      start: 773.48,
+      end: 829.310578,
+      name: '[EXC] Flow',
+      selected: true,
+    },
+    {
+      start: 840.765169,
+      end: 1057.978241,
+      name: "Gauss's Law",
+      selected: true,
+    },
+    {
+      start: 1126.24,
+      end: 1286.2971,
+      name: '',
+      selected: true,
+    },
+    {
+      start: 1341.12,
+      end: 1822.872737,
+      name: '[DER] | Work',
+      selected: true,
+    },
+    {
+      start: 1833.07434,
+      end: 1941.96,
+      name: '[DER] | Work',
+      selected: true,
+    },
+    {
+      start: 1952.44,
+      end: 2019.830562,
+      name: 'Negative Work',
+      selected: true,
+    },
+    {
+      start: 2046.738745,
+      end: 2125.538973,
+      name: '',
+      selected: true,
+    },
+    {
+      start: 2184.675223,
+      end: 2643.390323,
+      name: '',
+      selected: true,
+    },
+    {
+      start: 2690.72,
+      end: 2717.04,
+      name: '',
+      selected: true,
+    },
+  ],
+}
