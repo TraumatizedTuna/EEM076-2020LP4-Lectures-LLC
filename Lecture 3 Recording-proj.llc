@@ -89,7 +89,7 @@
     {
       start: 4191.405752,
       end: 4207.75643,
-      name: '',
+      name: '[EXC] Superposition',
       selected: true,
     },
     {
@@ -107,7 +107,7 @@
     {
       start: 4579.728852,
       end: 4723.142063,
-      name: '',
+      name: 'Thevenin',
       selected: true,
     },
     {

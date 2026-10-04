@@ -1,0 +1,36 @@
+{
+  version: 2,
+  mediaFileName: 'E-field_II_part2.mp4',
+  cutSegments: [
+    {
+      start: 0.52,
+      end: 159.92,
+      name: '[SUM]',
+      selected: true,
+    },
+    {
+      start: 166.100852,
+      end: 708.982889,
+      name: 'Work | [DEF] KVL 1',
+      selected: true,
+    },
+    {
+      start: 718.44,
+      end: 779.749625,
+      name: '[EXC]',
+      selected: true,
+    },
+    {
+      start: 866.92,
+      end: 947.962515,
+      name: '[EXC]',
+      selected: true,
+    },
+    {
+      start: 960,
+      end: 963.0201,
+      name: '',
+      selected: true,
+    },
+  ],
+}
